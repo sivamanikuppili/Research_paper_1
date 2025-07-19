@@ -1,6 +1,6 @@
-# Emotion_dection_in_text
+ Emotion_dection_in_text
 
-##This study successfully demonstrated the effectiveness of Convolutional Neural Networks (CNN) for emotion detection 
+This study successfully demonstrated the effectiveness of Convolutional Neural Networks (CNN) for emotion detection 
 in text, with a focus on comparing various word embedding techniques such as FastText, RoBERTa, and GloVe. The 
 research utilized three distinct types of datasets: movie reviews, e-commerce customer feedback, and a combined dataset 
 of both. The experiments were conducted across three scenarios: FastText+CNN, RoBERTa+CNN, and GloVe+CNN.
